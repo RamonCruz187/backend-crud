@@ -1,0 +1,6 @@
+com\crudtest\crud\service\IPersonaService.class
+com\crudtest\crud\CrudApplication.class
+com\crudtest\crud\service\PersonaService.class
+com\crudtest\crud\repository\PersonaRepository.class
+com\crudtest\crud\controller\Controller.class
+com\crudtest\crud\model\Persona.class
