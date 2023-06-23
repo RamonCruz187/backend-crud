@@ -1,0 +1,8 @@
+server:
+    ssl:
+        key-alias: crud
+        key-store: classpath:crud.jks
+        key-store-type: JKS
+        key-store-password: password
+        
+    port: 8090
