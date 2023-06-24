@@ -76,14 +76,7 @@
 						</exclude>
 					</excludes>
 				</configuration>
-                                <executions>
-                    <execution>
-                        <id>mojo-descriptor</id>
-                        <goals>
-                            <goal>descriptor</goal>
-                        </goals>
-                    </execution>
-                </executions>
+                               
 			</plugin>
 		</plugins>
 	</build>
