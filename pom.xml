@@ -68,6 +68,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
                                 
 				<configuration>
+                                        <executable>true</executable>
                                     <skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>
 					<excludes>
 						<exclude>
